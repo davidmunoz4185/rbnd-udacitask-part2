@@ -1,3 +1,9 @@
+commit a1b246fef43f75d28c2b0605a7a65ebe0a073e38
+Author: davidmunoz4185 <david.munoz4185@gmail.com>
+Date:   Sun Jul 31 13:04:06 2016 +0200
+
+    Check Error Module
+
 commit 5c2f4c0ad32a5e9f5e309e44291884f70dc7fc49
 Author: davidmunoz4185 <david.munoz4185@gmail.com>
 Date:   Sun Jul 31 12:57:55 2016 +0200
