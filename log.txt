@@ -1,0 +1,137 @@
+commit e518b08902a19c5eb49345f3251c6b1029c05c4d
+Author: Georgia Davis <georgiadavis@Georgias-MacBook-Pro.local>
+Date:   Sat Jul 30 19:00:17 2016 -0700
+
+    got urls to print
+
+commit e781aa650ef7f742b529dbac368267af222a8c18
+Author: Georgia Davis <georgiadavis@Georgias-MacBook-Pro.local>
+Date:   Sat Jul 30 18:51:47 2016 -0700
+
+    terminal table gem
+
+commit 0ff82a03c4c14ffa9e5447616d42c3796eca9634
+Author: Georgia Davis <georgiadavis@Georgias-MacBook-Pro.local>
+Date:   Sat Jul 30 18:20:46 2016 -0700
+
+     figured out colorize gem on priority arrows
+
+commit f621bdcfc9b6266ea804d3448a8806c5b296a74b
+Author: Georgia Davis <georgiadavis@Georgias-MacBook-Pro.local>
+Date:   Sat Jul 30 17:37:07 2016 -0700
+
+    figured out index exceed error
+
+commit 04d9e51085df040cdad6ab2e9dc43e9d11705833
+Author: Georgia Davis <georgiadavis@Georgias-MacBook-Pro.local>
+Date:   Sat Jul 30 17:30:12 2016 -0700
+
+    figured out type error
+
+commit 6a928f7af7889cfcbae40d30386aeb1ac7209f0b
+Author: Georgia Davis <georgiadavis@Georgias-MacBook-Pro.local>
+Date:   Thu Jul 28 21:22:18 2016 -0700
+
+    attempted at type error
+
+commit aeef379fa5dac294a8afa3d9ad1edcb9b4b08e2f
+Author: Georgia Davis <georgiadavis@Georgias-MacBook-Pro.local>
+Date:   Thu Jul 28 12:32:01 2016 -0700
+
+    moved invalid type error to udacilist
+
+commit 8e2db0c0ad57c5044e170f11b6dfa6a8c593960b
+Author: Georgia Davis <georgiadavis@Georgias-MacBook-Pro.local>
+Date:   Wed Jul 27 23:47:55 2016 -0700
+
+    stuck on error handling
+
+commit eff3f9bf83f14ed4ae169e939fc84b08de75ed23
+Author: Georgia Davis <georgiadavis@Georgias-MacBook-Pro.local>
+Date:   Wed Jul 27 23:07:10 2016 -0700
+
+    urls are not appearing
+
+commit fa61c08a09b3ce1b8848ad7c38ecf69c78c89fc9
+Author: Georgia Davis <georgiadavis@Georgias-MacBook-Pro.local>
+Date:   Wed Jul 27 22:58:22 2016 -0700
+
+    print untitled list
+
+commit 2d8b17ebc6597320912dfba1b3f6cd3d967ac7b2
+Author: Georgia Davis <georgiadavis@Georgias-MacBook-Pro.local>
+Date:   Wed Jul 27 22:51:24 2016 -0700
+
+    refactor format_date
+
+commit edc0387d3ea6c381e53f931ba2a4b03af14aad8f
+Author: Georgia Davis <georgiadavis@Georgias-MacBook-Pro.local>
+Date:   Wed Jul 27 18:10:16 2016 -0700
+
+    im stuck fuzz
+
+commit 3acf3e8735128ec4a2fe78086dadb8b6f83514a4
+Author: Georgia Davis <georgiadavis@Georgias-MacBook-Pro.local>
+Date:   Tue Jul 26 09:49:19 2016 -0700
+
+    tried to refactor formate_date and format_priority methods and error methods in  errors.rb
+
+commit 672a53e60212f831aca9472b24266dbff65a4a1e
+Author: Georgia Davis <georgiadavis@Georgias-MacBook-Pro.local>
+Date:   Tue Jul 26 09:21:56 2016 -0700
+
+    use chronic gem instead of date
+
+commit 6bc4bded3c22e1c3fc79bd11be3bbb0e1789277d
+Author: Georgia Davis <georgiadavis@Georgias-MacBook-Pro.local>
+Date:   Mon Jul 25 11:06:58 2016 -0700
+
+    moved format_description method to Listable module and removed instance methods
+
+commit 9c9a6c680db333d2ce9a79f8bab58f578a14f52e
+Author: Jerome Chenette <jerome.chenette@gmail.com>
+Date:   Thu Apr 7 11:56:04 2016 -0700
+
+    New Rubric linked
+
+commit 68aab52057d8e55093ba1d8bb6bffb6e101d7392
+Author: Julia Van Cleve <julia@jmv.me>
+Date:   Thu Jan 14 16:33:03 2016 -0800
+
+    Updated README to clarify feature requirements
+
+commit 44c0ac9bbf25cfcb0fb2804df173024272b22079
+Author: Julia Van Cleve <julia@jmv.me>
+Date:   Wed Jan 13 13:15:43 2016 -0800
+
+    Change filter method requirement
+
+commit ff315acad10f611b79aaedfec65b11aef55a6378
+Author: Julia Van Cleve <julia@jmv.me>
+Date:   Wed Jan 13 11:52:22 2016 -0800
+
+    Add clarification about filter method
+
+commit ee74dea2ba39e201720aca9c29380f920a268600
+Author: Julia Van Cleve <julia@jmv.me>
+Date:   Tue Jan 12 16:32:37 2016 -0800
+
+    Add filter by item type demo to starter code
+
+commit 154160cf3b7ff1a29f5ef8e987a219852cac0f12
+Author: Julia Van Cleve <julia@jmv.me>
+Date:   Tue Jan 12 11:09:40 2016 -0800
+
+    Add links for gem sources
+
+commit 6c365dc917cd32a5e8c520160ec58198cc8cb6d1
+Author: Julia Van Cleve <julia@jmv.me>
+Date:   Tue Jan 12 11:06:54 2016 -0800
+
+    Add rubric link
+
+commit ad33c7f02fec47e51c72da5cde3f8032f7b8a111
+Author: Julia Van Cleve <julia@jmv.me>
+Date:   Tue Jan 12 10:58:34 2016 -0800
+
+    Initial commit
