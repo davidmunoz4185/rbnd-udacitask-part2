@@ -5,16 +5,19 @@ Terminal Table: I used this gem to get my output in rows
 Highline: I used this gem in order to see how menu option works
 
 2. Describe the 2 features you added to the project.
-  a) Feature 1...not done yet
-  b) Feature 2...not done yet
+  a) Feature 1: Menu which shows different option to interact with the user
+  b) Feature 2: Create a new list from menu
 
 # REFLECTIONS
 # -------------------------------------------------------
 1. How long did you spend working on this project?
-I took a REALLY long break between this project and the last (2 months) so its taken quite a bit of time to get back into the context of the lessons. So far I've spent about a week or so working on this project.
+More than 2 weeks (more or less) from the beginning of Lesson 7
 2. What was the most rewarding challenge you conquered?
-None yet so far. Still trying to get my bearings. I really like Ruby gems though.
+The use of modules and gems, in my opinion are amazing and so powerful just to find a solution for a problem you could have
 3. What two additional features did you build? Why?
-None yet so far!
+A Menu using highline gem, a formatted table using Terminal-Table and adding a new list from the menu.
 4. Where do you still have room to grow?
-Inheriting legacy code and refactoring is REALLY hard. It feels like begin helicopter dropped into an ocean and needing to learn how to swim while sharks are attacking.
+This is becoming so difficult but I am very excited to keep learning, but I am afraid I am not going to have enough time to finish this nanodegree. I hope
+Ruby on Rails nanodegree starts shortly in order to have more knowledge about these amazing technologies.
+
+

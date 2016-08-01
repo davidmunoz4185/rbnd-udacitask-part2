@@ -1,3 +1,9 @@
+commit 8f256dcf4507820cfc48ea2e419dba5783a45ef5
+Author: davidmunoz4185 <david.munoz4185@gmail.com>
+Date:   Mon Aug 1 17:25:11 2016 +0200
+
+    New Feature add list
+
 commit ed800fdbe66cc1a707109106835dc0274aefea99
 Author: davidmunoz4185 <david.munoz4185@gmail.com>
 Date:   Mon Aug 1 17:10:42 2016 +0200
