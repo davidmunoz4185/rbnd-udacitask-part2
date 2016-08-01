@@ -19,10 +19,11 @@ end
 def menu()
         cli = HighLine.new
         cli.choose do |menu|
-                menu.prompt = "Please choose your favorite programming language?  "
+                menu.prompt = "Please choose an option:"
                 menu.choice(:"Visualize Lists") { print_lists }
+		menu.choice(:"New List") { title = cli.ask("Title???:"); UdaciList.new(title: title); print_lists }
 		menu.choice(:Goodbye) { cli.say("See you soon!") }
-                menu.default = :Goodby
+                menu.default = :Goodbye
         end
 end
 

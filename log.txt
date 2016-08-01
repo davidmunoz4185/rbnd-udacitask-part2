@@ -1,3 +1,9 @@
+commit ed800fdbe66cc1a707109106835dc0274aefea99
+Author: davidmunoz4185 <david.munoz4185@gmail.com>
+Date:   Mon Aug 1 17:10:42 2016 +0200
+
+    New features added
+
 commit e415e80d9188a9581bb6cffe55cefadf19a65deb
 Author: davidmunoz4185 <david.munoz4185@gmail.com>
 Date:   Sun Jul 31 13:07:42 2016 +0200

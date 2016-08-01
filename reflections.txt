@@ -2,6 +2,8 @@
 # -------------------------------------------------------
 1. What is the gem of your choice and how did you use it?
 Terminal Table: I used this gem to get my output in rows
+Highline: I used this gem in order to see how menu option works
+
 2. Describe the 2 features you added to the project.
   a) Feature 1...not done yet
   b) Feature 2...not done yet
