@@ -10,7 +10,6 @@ class LinkItem
     @site_name ? @site_name : ""
   end
   def details
-    format_description(@descripton) + "site name: " + format_name
-    # p @description
+    [format_description(@description), format_name]
   end
 end

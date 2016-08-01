@@ -1,3 +1,9 @@
+commit e415e80d9188a9581bb6cffe55cefadf19a65deb
+Author: davidmunoz4185 <david.munoz4185@gmail.com>
+Date:   Sun Jul 31 13:07:42 2016 +0200
+
+    Chronic gem tests
+
 commit a1b246fef43f75d28c2b0605a7a65ebe0a073e38
 Author: davidmunoz4185 <david.munoz4185@gmail.com>
 Date:   Sun Jul 31 13:04:06 2016 +0200

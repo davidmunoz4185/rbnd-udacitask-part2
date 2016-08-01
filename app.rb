@@ -1,12 +1,30 @@
 require 'chronic'
 require 'colorize'
 require 'terminal-table'
+require 'highline'
+
 require_relative "lib/listable"
 require_relative "lib/errors"
 require_relative "lib/udacilist"
 require_relative "lib/todo"
 require_relative "lib/event"
 require_relative "lib/link"
+
+def print_lists()
+  puts "Here are your lists"
+  UdaciList.all_lists.each {|list| puts list.title}
+  puts "\n"
+end
+
+def menu()
+        cli = HighLine.new
+        cli.choose do |menu|
+                menu.prompt = "Please choose your favorite programming language?  "
+                menu.choice(:"Visualize Lists") { print_lists }
+		menu.choice(:Goodbye) { cli.say("See you soon!") }
+                menu.default = :Goodby
+        end
+end
 
 list = UdaciList.new(title: "Julia's Stuff")
 list.add("todo", "Buy more cat food", due: "2016-02-03", priority: "low")
@@ -43,4 +61,8 @@ new_list.all
 
 # DEMO FILTER BY ITEM TYPE
 # ------------------------
-# new_list.filter("event")
+new_list.filter("event")
+
+menu
+
+
