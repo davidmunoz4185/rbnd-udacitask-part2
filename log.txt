@@ -1,3 +1,9 @@
+commit 2e410ef076743fe4ac54583685a8d47c81143569
+Author: davidmunoz4185 <david.munoz4185@gmail.com>
+Date:   Thu Aug 4 11:22:36 2016 +0200
+
+    format_name added in listable.rb
+
 commit 8f86656681221b55ab4817816158ced347560e34
 Author: davidmunoz4185 <david.munoz4185@gmail.com>
 Date:   Mon Aug 1 17:31:08 2016 +0200

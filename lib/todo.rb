@@ -8,8 +8,8 @@ class TodoItem
     @due = options[:due] ? Chronic.parse(options[:due]) : options[:due]
     if @@priorities.include?(options[:priority])
       @priority = options[:priority]
-    elsif !options[:priority] then
-      @priorty = ""
+    elsif !options[:priority] || options[:priority].to_s == '' then
+      @priority = ""
     else
       raise UdaciListErrors::InvalidPriorityValue,
         "#{options[:priority]} is not a valid priority, this are the valid options: " +

@@ -25,7 +25,7 @@ module Listable
       value = " ⇨".colorize(:yellow)
     when "low"
       value = " ⇩".colorize(:grey)
-    else value = "" if !priority
+    else value = "" if (!priority || priority.to_s == '')
     end
     return value
   end

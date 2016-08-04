@@ -60,4 +60,22 @@ class UdaciList
   def self.all_lists
     @@lists
   end
+
+  def print_lists()
+  	puts "Here are your lists"
+  	UdaciList.all_lists.each {|list| puts list.title}
+  	puts "\n"
+  end
+
+  def menu()
+     cli = HighLine.new
+     cli.choose do |menu|
+     	menu.prompt = "Please choose an option:"
+     	menu.choice(:"Visualize Lists") { print_lists }
+     	menu.choice(:"New List") { title = cli.ask("Title???:"); UdaciList.new(title: title); print_lists }
+     	menu.choice(:Goodbye) { cli.say("See you soon!") }
+     	menu.default = :Goodbye
+     end
+  end
+
 end
