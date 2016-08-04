@@ -1,3 +1,9 @@
+commit 8f86656681221b55ab4817816158ced347560e34
+Author: davidmunoz4185 <david.munoz4185@gmail.com>
+Date:   Mon Aug 1 17:31:08 2016 +0200
+
+    Reflections.txt file added
+
 commit 8f256dcf4507820cfc48ea2e419dba5783a45ef5
 Author: davidmunoz4185 <david.munoz4185@gmail.com>
 Date:   Mon Aug 1 17:25:11 2016 +0200
